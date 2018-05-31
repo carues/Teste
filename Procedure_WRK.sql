@@ -1,1 +1,2 @@
+use master
 SELECT * FROM SYS.OBJECTS
